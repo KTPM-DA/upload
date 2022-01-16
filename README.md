@@ -9,9 +9,6 @@ A boilerplate/starter project for quickly building RESTful APIs using Node.js, E
 
 # copy from RESTful API Node Server Boilerplate
 
-## require
-
-ref: https://hackmd.io/@nndkhoa9/wnc-proj-bot
 
 ## member
 
